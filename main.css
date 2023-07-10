@@ -128,7 +128,7 @@ body {
     }
 
     .product-price {
-        display: inline-block;
+        display: block;
     }
 
 
