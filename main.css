@@ -127,5 +127,9 @@ body {
         flex-direction: column;
     }
 
+    .product-price {
+        display: inline-block;
+    }
+
 
 }
